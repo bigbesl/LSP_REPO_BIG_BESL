@@ -1,0 +1,74 @@
+##Question 1: Cohesion Analysis
+#AI Role: Software Design Mentor
+
+#Provided conceptual framework using Arthur Riel's heuristics
+
+#Analyzed code structure against object-oriented principles
+
+#Explained the difference between high and low cohesion
+
+#Suggested refactoring strategies for better design
+
+#Question 2: AreaCalculator Implementation
+#AI Role: Code Implementation Assistant
+
+#Generated syntactically correct Java code with method overloading
+
+#Ensured mathematical formulas were accurate
+
+#Added proper exception handling as specified
+
+#Helped with file structure organization
+
+#Provided design rationale for method overloading approach
+
+#Question 3: Car Manufacturer UML
+#AI Role: System Design Consultant
+
+#Analyzed inheritance hierarchy flaws in UML diagram
+
+#Proposed composition-based solution using Strategy pattern
+
+#Explained trade-offs between inheritance and composition
+
+#Provided refactored class structure with clear justifications
+
+#Question 4: Smart-Campus Device System
+#AI Role: Complex System Architect
+
+#Implemented multiple classes adhering to strict specifications
+
+#Managed interface contracts and abstract class inheritance
+
+#Ensured proper use of polymorphism and encapsulation
+
+#Integrated provided driver code without modifications
+
+#Added design rationale explaining architectural decisions
+
+#Question 5: File Structure Guidance
+#AI Role: Development Environment Helper
+
+#Diagnosed project structure issues in Eclipse
+
+#Provided step-by-step instructions for correct setup
+
+#Explained Java package-to-directory mapping requirements
+
+#Offered IDE-specific troubleshooting guidance
+
+#Overall AI Usage Pattern:
+#The AI served as an adaptive learning partner that shifted roles based on task requirements:
+
+#Conceptual understanding for design questions
+
+#Code generation for implementation tasks
+
+#Debugging assistance for structural issues
+
+#Explanation provider for theoretical concepts
+
+#This demonstrates how AI can complement human problem-solving by handling routine implementation details while the learner focuses on higher-level design decisions and conceptual mastery. The interaction shows a collaborative approach where AI provides immediate feedback and multiple solution perspectives, enabling deeper engagement with complex software engineering concepts.
+
+
+
